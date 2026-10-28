@@ -1,0 +1,15 @@
+{
+  "original_rows": 1048567,
+  "cleaned_rows": 983040,
+  "rows_removed": 65527,
+  "removed_by_step": {
+    "invalid_or_missing_gender": 1101,
+    "missing_location": 151,
+    "missing_account_balance": 2369,
+    "non_positive_amount": 830,
+    "invalid_or_placeholder_birth_date": 61076
+  },
+  "unique_customers": 837433,
+  "unique_locations": 8148,
+  "total_amount_inr": 1428495064.2
+}
